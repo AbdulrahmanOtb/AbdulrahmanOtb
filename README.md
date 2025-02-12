@@ -63,11 +63,8 @@
 
 </div>
 
-
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/AbdulrahmanOtb/AbdulrahmanOtb/blob/output/github-contribution-grid-snake.svg)
 
 ###
